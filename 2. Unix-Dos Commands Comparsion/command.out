@@ -1,0 +1,10 @@
+del -> rm
+cp -> copy
+mem -> free
+rm -> del
+fsck -> chkdsk
+scandisk -> debugfs
+comp -> diff
+grep -> findstr
+popd -> popd
+mv -> rename
